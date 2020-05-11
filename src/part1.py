@@ -1,1 +1,0 @@
-import panas as pd

@@ -1,0 +1,14 @@
+"Marks and Spencers Ltd", 
+"M&S Limited", 
+"NVIDIA Ireland", 
+"SLOUGH SE12 2XY", 
+"33 TIMBER YARD,LONDON, L1 8XY", 
+"44 CHINA ROAD, KOWLOON, HONG KONG",  
+"XYZ 13423 / ILD", 
+"ABC/ICL/20891NC", 
+"HARDWOOD TABLE", 
+"PLASTIC BOTTLE", 
+"LONDON", 
+"HONG KONG", 
+"ASIA"
+"JP Morgan & Chase Co."
